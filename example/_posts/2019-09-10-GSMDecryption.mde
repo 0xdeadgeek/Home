@@ -1,10 +1,9 @@
-# GSMDecryption
-A5/1 Decryption
-
-### Overview
 This open source software allows the 'cracking' of A5/1 keys used to encrypt GSM 2G calls and SMS.
 The cracking utility Kraken, developed by Frank A. Stevenson, is written in C++/python and runs on AMD GPUs or CPUs.
 Kraken leverages rainbow tables that were computed as a community effort.
+
+# GSMDecryption
+A5/1 Decryption
 
 
 ### Code
