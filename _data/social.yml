@@ -3,6 +3,10 @@ email:
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
+keybase:
+  name: Keybase
+  icon: icon-mail
+  prepend: 'https://keybase.io/'
 amazon:
   name: Amazon
   icon: icon-amazon
