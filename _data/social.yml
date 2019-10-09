@@ -5,7 +5,7 @@ email:
   prepend: 'mailto:'
 keybase:
   name: Keybase
-  icon: icon-mail
+  icon: keybase-icon
   prepend: 'https://keybase.io/'
 amazon:
   name: Amazon
