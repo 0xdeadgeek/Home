@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/0xdeadgeek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://0xdeadgeek.netlify.com
+  * I am 0xdeadgeek (https://keybase.io/0xdeadgeek) on keybase.
+  * I have a public key ASD04tIGfj4EKId2mWCJQ-cnWyQ-W_i8L9aSuTGlmbFXuwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f4e2d2067e3e0428877699608943e7275b243e5bf8bc2fd692b931a599b157bb0a",
+      "host": "keybase.io",
+      "kid": "0120f4e2d2067e3e0428877699608943e7275b243e5bf8bc2fd692b931a599b157bb0a",
+      "uid": "9888da094cfdbc5157b41e6a3fe88319",
+      "username": "0xdeadgeek"
+    },
+    "merkle_root": {
+      "ctime": 1570615705,
+      "hash": "4c0d58fc8fd7f6ed727999cad9fe9a1c5c9b2f8c15c6e2e469da7d1bb6fa219feb49f8ce35a1d8dbd139f14f2fd28c09920737989b7ba8603acc49a718756d5a",
+      "hash_meta": "00d1002875e8f5237fe80ac9926da64746f6a3e0fd25bc2645bef65606744978",
+      "seqno": 7927070
+    },
+    "service": {
+      "entropy": "xoftLQ6LgiWtp5UcIybLOd1d",
+      "hostname": "0xdeadgeek.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570615732,
+  "expire_in": 504576000,
+  "prev": "d5c439b4f736f20466c1c41fce125314d9c1fbecfbee2b3c3ba9da4bc6d3706e",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9OLSBn4+BCiHdplgiUPnJ1skPlv4vC/WkrkxpZmxV7sKp3BheWxvYWTESpcCCsQg1cQ5tPc28gRmwcQfzhJTFNnB++z77is8O6naS8bTcG7EIA4M27oiUGmMGpBam5/655iu3aUTxHHYPO7QFGaD/JUHAgHCo3NpZ8RA4a7wdzXr1eyRZdYdrIMIGlXcmS3Yz2Y4A5LUjzxJORk6csnWYNbx8OtXunwGHR1WmaU96dz1dId2hJdUL83JDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILVW/VWntaWm8WN8ilDsKS8HsZD4z0jx15DpvLODCL3ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0xdeadgeek
+
+==================================================================
