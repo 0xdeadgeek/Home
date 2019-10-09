@@ -28,8 +28,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Old school dark-side hacker now burned as white-hat security researcher!
+  
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,17 +41,15 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                0xdeadGeek
+  email:               0xdeadgeek@pm.me
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Stories
     url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
   - title:             About
     url:               /about/
 
@@ -64,7 +62,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved. Open `_config.yml` to edit this text.
+copyright:             © 2019. All rights reserved. 0xdeadgeek.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
