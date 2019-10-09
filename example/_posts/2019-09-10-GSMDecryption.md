@@ -10,12 +10,11 @@ Kraken leverages rainbow tables that were computed as a community effort.
 ### Code
 The Kraken git can be fetched with
 ```bash
-git clone https://github.com/0xh4di/kraken.git
+git clone https://github.com/0xdeadgeek/kraken.git
 ```
 
 ### Rainbow tables
-1. Through [BitTorrent](https://github.com/0xh4di/GSMDecryption/tree/master/files)
-2. From [Google Drive](https://drive.google.com/drive/folders/0B-8F5I-fE6lFQk1HY1pTWGJyM3M)
+1. From [Google Drive](https://drive.google.com/drive/folders/0B-8F5I-fE6lFQk1HY1pTWGJyM3M)
 
 
 ### Decrypting GSM phone calls
@@ -38,8 +37,8 @@ The following tools are used to analyze voice calls:
 ![Tools](https://srlabs.de/wp-content/uploads/2016/04/tools-500x88.png)
 * [GnuRadio](http://gnuradio.org/) is included in recent Linux distributions
 Recording data requires a programmable radio receiver such as the [USRP](https://www.ettus.com/product)
-* Airprobe is available through: git clone https://github.com/0xh4di/airprobe
-* Kraken is available through: git clone https://github.com/0xh4di/kraken
-Kraken uses rainbow tables that are available through [files](https://github.com/0xh4di/GSMDecryption/tree/master/files).
+* Airprobe is available through: git clone https://github.com/0xdeadgeek/airprobe
+* Kraken is available through: git clone https://github.com/0xdeadgeek/kraken
+Kraken uses rainbow tables that are available through [files](https://drive.google.com/drive/folders/0B-8F5I-fE6lFQk1HY1pTWGJyM3M).
 
 Please use these tools carefully and never intentionally record other people’s conversations. 
