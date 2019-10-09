@@ -44,7 +44,7 @@ author:
   name:                0xdeadGeek
   email:               0xdeadgeek@pm.me
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             0xdeadgeek
 
 # Add links to the sidebar.
 menu:
